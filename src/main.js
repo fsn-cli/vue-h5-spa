@@ -14,9 +14,6 @@ import './monkey-ui/theme/default/index.css';
 
 Vue.use(MkToast).use(MkLoading);
 
-// window.TAL_UC.rankConfig({
-//   'client-id': process.env.VUE_APP_PASSPORT_CLIENT_ID, // client-id由平台发放权限码，接入之前向平台申请
-// });
 
 Vue.config.productionTip = false;
 
