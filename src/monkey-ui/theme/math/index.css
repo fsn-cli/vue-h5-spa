@@ -1,0 +1,32 @@
+@import '../../styles/common.css';
+@import '../../assets/font/index.css';
+
+html {
+  /* 主色/按钮色/需要突出的色块 */
+  --main-color: #45A6FF;
+  /* 标签栏图标文字 */
+  --tag-font-color: #ff8443;
+  /* 课程价格/金币数量 */
+  --num-color: #FF6C48;
+  /* 选中状态/对勾 */
+  --checked-color: #58E2A9;
+  /* 辅助蓝色 */
+  --sub-blue-color: #63e4eb;
+  /* 辅助紫色 */
+  --sub-purple-color: #e4a0ff;
+  /* 辅助黄色 */
+  --sub-yellow-color: #ffb584;
+  
+  /* 一级文字/标题文字/页面标题 */
+  --title-color: #222222;
+  /* 二级文字/副标题文字/正文 */
+  --subtitle-color: #666666;
+  /* 说明性文字 */
+  --desc-color: #999999;
+  /* 辅助文字信息 */
+  --subdesc-color: #cccccc;
+  /* 分割线/未激活背景色 */
+  --sepline-color: #eaeaea;
+  /* 分割模块底色 */
+  --sepbg-color: #fafafa;
+}
